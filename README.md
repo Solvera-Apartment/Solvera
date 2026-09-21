@@ -1,2 +1,2 @@
-# Solv-ra
+# Solvera
 Repository pertama untuk solvera
